@@ -151,7 +151,7 @@ uvicorn main:app --reload
 
 ## 👨‍💻 Author
 
-**Arnav Joshi**  
+**Aryan Bansal**  
 - B.Tech CSE @ Thapar University  
 - Passionate about space-AI and physics-informed ML
 
