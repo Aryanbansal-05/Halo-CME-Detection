@@ -474,7 +474,7 @@ if page == "Prediction Interface":
                         <p style="font-size:0.8125rem; font-weight:500; color:#98989d !important; text-transform:uppercase; letter-spacing:0.06em; margin-bottom:0.75rem;">Extracted Features</p>
                         """, unsafe_allow_html=True)
                         st.dataframe(
-                            features_df.style.background_gradient(cmap="RdYlGn_r", axis=1),
+                            features_df,
                             use_container_width=True,
                         )
 
