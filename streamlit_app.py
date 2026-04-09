@@ -300,8 +300,8 @@ with st.sidebar:
 
     st.markdown("""
     <div style="margin-top: 1.5rem;">
-        <p style="font-size:0.75rem; font-weight:500; color:#98989d !important; text-transform:uppercase; letter-spacing:0.06em; margin-bottom:0.75rem;">Developer</p>
-        <p style="font-size:0.9375rem; font-weight:500; color:#f5f5f7 !important; margin:0;">Aryan Bansal</p>
+        <p style="font-size:0.75rem; font-weight:500; color:#98989d !important; text-transform:uppercase; letter-spacing:0.06em; margin-bottom:0.75rem;">Developers</p>
+        <p style="font-size:0.9375rem; font-weight:500; color:#f5f5f7 !important; margin:0;">Aryan Bansal | Arnav Joshi</p>
         <p style="font-size:0.8125rem; color:#98989d !important; margin:2px 0 0 0;">3rd Year · Thapar University</p>
     </div>
     """, unsafe_allow_html=True)
